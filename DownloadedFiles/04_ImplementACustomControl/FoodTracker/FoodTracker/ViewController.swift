@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  FoodTracker
 //
-//  Created by Johnathan Lyman on 3/30/17.
-//  Copyright © 2017 Lyman Digital. All rights reserved.
+//  Created by Jane Appleseed on 10/17/16.
+//  Copyright © 2016 Apple Inc. All rights reserved.
 //
 
 import UIKit
@@ -73,3 +73,4 @@ class ViewController: UIViewController, UITextFieldDelegate, UIImagePickerContro
     }
     
 }
+
