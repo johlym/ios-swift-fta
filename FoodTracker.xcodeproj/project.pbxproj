@@ -14,6 +14,7 @@
 		14901CEC1E8E2253005B3B2E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14901CEA1E8E2253005B3B2E /* LaunchScreen.storyboard */; };
 		14901CF71E8E2253005B3B2E /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14901CF61E8E2253005B3B2E /* FoodTrackerTests.swift */; };
 		14901D021E91EC19005B3B2E /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14901D011E91EC19005B3B2E /* RatingControl.swift */; };
+		14901D041E91F868005B3B2E /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14901D031E91F868005B3B2E /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		14901CF61E8E2253005B3B2E /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		14901CF81E8E2253005B3B2E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		14901D011E91EC19005B3B2E /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RatingControl.swift; path = ../RatingControl.swift; sourceTree = "<group>"; };
+		14901D031E91F868005B3B2E /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				14901CE31E8E2253005B3B2E /* ViewController.swift */,
 				14901D011E91EC19005B3B2E /* RatingControl.swift */,
 				14901CE51E8E2253005B3B2E /* Main.storyboard */,
+				14901D031E91F868005B3B2E /* Meal.swift */,
 				14901CE81E8E2253005B3B2E /* Assets.xcassets */,
 				14901CEA1E8E2253005B3B2E /* LaunchScreen.storyboard */,
 				14901CED1E8E2253005B3B2E /* Info.plist */,
@@ -202,6 +205,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14901D041E91F868005B3B2E /* Meal.swift in Sources */,
 				14901CE41E8E2253005B3B2E /* ViewController.swift in Sources */,
 				14901D021E91EC19005B3B2E /* RatingControl.swift in Sources */,
 				14901CE21E8E2253005B3B2E /* AppDelegate.swift in Sources */,
